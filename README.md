@@ -52,6 +52,84 @@ Students will be able to:
 5. **Review & Celebration** (3:15-3:45) - Recap and preview
 6. **Closing** (3:45-4:00) - Call to action for Activity 2
 
+### Activity 2: Connect the Flow
+
+**Files:**
+- `Activity_2_Video_Script.docx` - Complete video script in Word format
+- `Activity_2_Complete_Script_With_Animations.md` - Detailed markdown version with animation specifications
+
+**Video Information:**
+- **Title:** "Link the Energy: Showing How Power Moves Through Your System"
+- **Duration:** 3:00 - 3:30 minutes
+- **Style:** Close narrative + step-by-step demonstration
+- **Tone:** Like a friend explaining, celebratory
+- **Language:** American English
+
+**Content Structure:**
+1. **Recap & Intro** (0:00-0:30) - Celebrate Activity 1 success
+2. **The Energy Flow Concept** (0:30-1:00) - Why connections matter
+3. **Transition to Creating Connections** (1:00-1:15) - Ready to connect
+4. **Creating Connections - Step by Step** (1:15-2:35)
+   - Step 1: Connect Energy Input to Heating Coil (click + drag)
+   - Step 2: Connect Heating Coil to Boiling Water (click + drag)
+5. **Understanding External Components** (2:35-3:00) - Why orange vs gray
+6. **Review & Preview** (3:00-3:15) - Model completeness
+7. **Closing** (3:15-3:30) - Call to action for Activity 3
+
+---
+
+### Activity 3: Test the System
+
+**Files:**
+- `Activity_3_Video_Script.docx` - Complete video script in Word format
+- `Activity_3_Complete_Script_With_Animations.md` - Detailed markdown version with animation specifications
+
+**Video Information:**
+- **Title:** "What Happens When Energy is Removed? Testing Your Model"
+- **Duration:** 3:30 - 4:00 minutes
+- **Style:** Close narrative + step-by-step demonstration
+- **Tone:** Like a friend explaining, not like a manual
+- **Language:** American English
+
+**Content Structure:**
+1. **Intro & Setup** (0:00-0:30) - Celebrate connected system
+2. **Entering Simulation Mode** (0:30-1:15) - Difference between model and simulation
+3. **Understanding the Slider** (1:15-1:45) - How to control energy (0% to 100%)
+4. **Observing Components** (1:45-2:35) - Using eye icons for observation
+5. **Test Scenario - Energy OFF** (2:35-3:15) - Set Energy Input to 0%
+6. **Energy Dependence Concept** (3:15-3:45) - Key learning about system dependency
+7. **Closing** (3:45-4:00) - Preview Activity 4
+
+---
+
+### Activity 4: What Changes With Energy?
+
+**Files:**
+- `Activity_4_Video_Script.docx` - Complete video script in Word format
+- `Activity_4_Complete_Script_With_Animations.md` - Detailed markdown version with animation specifications
+
+**Video Information:**
+- **Title:** "Simulate the System with Energy ON - Observe the Changes"
+- **Duration:** 3:00 - 3:30 minutes
+- **Style:** Close narrative + step-by-step demonstration
+- **Tone:** Like a friend explaining, exploratory and exciting
+- **Language:** American English
+
+**Content Structure:**
+1. **Recap & Setup Review** (0:00-0:30) - Remember Activity 3 setup
+2. **STEP 1: Turn ON Energy Input** (0:30-1:15) - Move slider to 100%
+3. **STEP 2: Choose What to Observe** (1:15-1:45) - Confirm eye icons ON
+4. **STEP 3: Run the Simulation** (1:45-2:45) - Click Play, watch rising graph lines
+5. **The Science - Energy Transfer** (2:45-3:15) - Conduction explanation (coil → pot → water)
+6. **Celebration & What You've Learned** (3:15-3:30) - Recap learning journey
+
+**Key Learning:**
+- Energy ON = Rising graph lines (system active)
+- Energy OFF = Flat graph lines (no activity)
+- Energy Transfer Through Conduction:
+  - Heat doesn't go directly to water
+  - Step-by-step process: Coil heats → Pot heats → Water boils
+
 ---
 
 ## 🎬 Production Notes
@@ -133,13 +211,39 @@ These scripts can be used to:
 
 ## 🔄 Lesson Structure
 
-This is **Activity 1** of a multi-activity lesson:
+**Complete 4-Video Learning Journey:**
 
-- **Activity 1:** Build and Label Components (this video)
-- **Activity 2:** Link the Flow - Show energy connections
-- **Activity 3:** Test the System - Run simulations
-- **Activity 4:** See the System in Action - Analyze results
-- **Activity 5:** Knowledge Check - Assessment
+### The Four-Part Cycle:
+
+1. **Activity 1: Build Your Energy System**
+   - 🎯 Goal: Create system components (Energy Input, Heating Coil, Boiling Water)
+   - 📌 Outcome: Three separate components placed in Cell Collective
+   - ⏱️ Duration: 3:30 - 4:00 minutes
+
+2. **Activity 2: Connect the Flow**
+   - 🎯 Goal: Create arrows showing energy flow
+   - 📌 Outcome: System connected with Energy Input → Heating Coil → Boiling Water
+   - ⏱️ Duration: 3:00 - 3:30 minutes
+   - 💡 Key Concept: Cause and effect, energy flow visualization
+
+3. **Activity 3: Test the System**
+   - 🎯 Goal: Set up simulation with Energy OFF (0%)
+   - 📌 Outcome: Understand energy dependence concept
+   - ⏱️ Duration: 3:30 - 4:00 minutes
+   - 💡 Key Concept: Variables, observation selection, energy dependence
+
+4. **Activity 4: What Changes With Energy?**
+   - 🎯 Goal: Run simulation with Energy ON (100%)
+   - 📌 Outcome: Observe and interpret graph data showing system response
+   - ⏱️ Duration: 3:00 - 3:30 minutes
+   - 💡 Key Concept: Data interpretation, conduction transfer, systems thinking
+
+### Learning Arc:
+**BUILD → CONNECT → TEST → OBSERVE**
+- From static components to connected system
+- From theoretical model to working simulation
+- From setup to data analysis
+- Complete systems thinking cycle
 
 ---
 
@@ -185,13 +289,18 @@ For questions about:
 
 ---
 
-## 🎯 Future Development
+## ✅ Completion Status
 
-Scripts in development:
-- [ ] Activity 2: Connect the Flow
-- [ ] Activity 3: Test the System
-- [ ] Activity 4: See the System in Action
-- [ ] Activity 5: Knowledge Check
+**COMPLETE! All 4 Activities Ready for Production:**
+
+- [x] **Activity 1:** Build Your Energy System - COMPLETE
+- [x] **Activity 2:** Connect the Flow - COMPLETE
+- [x] **Activity 3:** Test the System - COMPLETE
+- [x] **Activity 4:** What Changes With Energy? - COMPLETE
+
+**Total Video Duration:** ~13:00 - 15:00 minutes
+**Scripts Delivered:** 8 files (4 Markdown + 4 Word documents)
+**Status:** Ready for professional video production
 
 ---
 
@@ -199,6 +308,11 @@ Scripts in development:
 
 ---
 
-*Last Updated: November 2025*
+**Status:** ✅ PROJECT COMPLETE - All 4 Activities Ready for Production
+
+*Last Updated: November 11, 2025*
+*Project: From Plug to Steam - How Energy Boils Water*
 *Repository: Videos-Lesson-From-Plug-to-Steam-How-Energy-Boils-Water*
 *GitHub: @EiliSierra*
+*Platform: Cell Collective*
+*Grade Level: 8th Grade Physical Science (PS3)*
