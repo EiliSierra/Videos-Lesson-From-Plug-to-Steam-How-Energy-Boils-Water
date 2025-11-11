@@ -1,354 +1,348 @@
-# Activity 4: See the System in Action - Complete Script with Animations
-## "From Data to Discovery: Your Energy Model Works in the Real World"
+# Activity 4: What Changes With Energy? - Complete Script with Animations
+## "Simulate the System with Energy ON - Observe the Changes"
 
-**Duration:** 4:00 - 4:30 min (extended for maximum impact)
-**Style:** Close narrative + celebration + real-world connection + challenge
-**Tone:** Inspirational, empowering, like a friend showing you something amazing
+**Duration:** 3:00 - 3:30 min
+**Style:** Close narrative + step-by-step demonstration
+**Tone:** Like a friend explaining, exploratory and exciting
 **Language:** American English
 
-**Connection to Activity 3:** This video opens by running the simulations students set up, then shows them what the data means, and finally challenges them to apply what they've learned.
+**Connection to Activity 3:** This video opens by reviewing the setup from Activity 3, then shows what happens when we TURN ON the energy and watch the system transform.
 
 ---
 
-## PART 1: RECAP & THE MOMENT OF TRUTH (30 seconds)
+## PART 1: RECAP & SETUP REVIEW (30 seconds)
 
-**Scene:** Cell Collective interface showing complete model with simulation ready
+**Scene:** Cell Collective interface showing the completed Activity 2 model with simulation ready
 
 ### VOICEOVER:
-> "Welcome to Activity 4. This is the moment we've been building toward."
+> "Welcome to Activity 4. Remember where we left off?"
 >
 > *[Pause]*
 >
-> "Remember what you did? You built a model. You connected it. You set up a test scenario with energy OFF."
+> "You had everything set up. Energy Input at 0%. Heating Coil and Boiling Water ready to observe."
 >
 > *[Pause]*
 >
-> "Now... we're gonna see what happens. We're gonna run the simulation and watch the data come to life."
+> "We looked at what happens when energy is OFF. Nothing happened. The system stayed quiet."
+>
+> *[Pause]*
+>
+> "But now? We're gonna do something different. We're gonna turn that energy ON. And we're gonna watch what CHANGES."
 
 ### VISUALS:
-- Show the complete model with all three components
-- Show simulation interface ready
-- Energy Input slider at 0% (energy OFF)
-- Eye icons active on both Heating Coil and Boiling Water
-- Graph area empty and waiting
+- Show the complete model with simulation interface visible
+- Energy Input slider at 0%
+- Eye icons active on Heating Coil and Boiling Water
+- Graph area empty
 - Professional, ready-to-go feeling
 
-**[Music builds with anticipation]**
+**[Music transitions - building anticipation]**
 
 ---
 
-## PART 2: RUNNING THE SIMULATION - ENERGY OFF (1:00)
+## PART 2: STEP 1 - TURN ON ENERGY INPUT (45 seconds)
 
-**Scene:** Simulation interface with all controls visible
+**Scene:** Simulation interface with External Components panel visible
 
 ### VOICEOVER:
-> "Here we go. Energy Input is at 0%. Everything is ready to observe."
+> "Okay, first thing. We need to turn ON the energy."
 >
-> "I'm gonna hit the Play button... and watch what the simulation tells us."
+> *[Pause]*
+>
+> "Look at the External Components panel. That's in the top left. See Energy Input right there?"
 
 ### VISUALS:
-- Cursor moves to Play button
-- Play button highlights/glows
-- Ready feeling
+- Highlight External Components panel
+- Circle or spotlight Energy Input
+- Show the slider next to it
+
+### VOICEOVER:
+> "Right now, that slider is all the way to the left. That's 0%. No energy. The system is unplugged, basically."
+>
+> *[Pause]*
+>
+> "Let's change that. We're gonna move this slider... all the way to the right."
 
 ### ACTION:
-**Click Play button**
-
-### VISUALS:
-- Simulation runs
-- Graph begins to fill with data
-- Line appears for Heating Coil (stays flat/zero)
-- Line appears for Boiling Water (stays flat/zero)
-- Time passes on simulation (0s → 10s → 20s → 30s)
-- Both lines remain flat, showing no activity
-
-### VOICEOVER:
-> "Look at what's happening on the graph."
->
-> *[Pause]*
->
-> "The Heating Coil? It's not heating up. The line is flat. Zero activity."
->
-> "The Boiling Water? Also flat. Zero boiling."
->
-> *[Pause]*
->
-> "Why? Because there's NO energy coming in. Remember what we talked about?"
-
-### VISUALS:
-- Highlight the flat lines on the graph
-- Show comparison: 0% energy = 0% activity
-- Circle the Energy Input slider showing 0%
-
-### VOICEOVER:
-> "Energy dependence. The system depends on energy to work. No energy... no action."
-
-### VISUALS:
-- Simulation completes
-- Final graph shows both components at zero
-- Text overlay: "Energy Input: OFF = No Activity"
-
----
-
-## PART 3: RUNNING THE SIMULATION - ENERGY ON (1:00)
-
-**Scene:** Simulation interface reset, ready for second test
-
-### VOICEOVER:
-> "Now let's ask the opposite question."
->
-> *[Pause]*
->
-> "What happens when we TURN energy ON?"
-
-### VISUALS:
-- Cursor moves to Energy Input slider
-- Slider highlights
-- Ready to change
-
-### VOICEOVER:
-> "Let me set Energy Input to 100%... full power."
-
-### ACTION:
-**Drag slider from 0% to 100%**
+**DRAG slider from 0% to 100% (slow, smooth motion)**
 
 ### VISUALS:
 - Slider moves smoothly to the right
 - Percentage updates: 0% → 25% → 50% → 75% → 100%
-- Energy Input circle brightens/glows
-- Text shows "ON" or "100% Active"
+- Energy Input circle brightens or glows
+- Color shift: gray/inactive → bright/active
+- Visual confirmation: "100% Active" or "ON"
 
 ### VOICEOVER:
-> "Energy Input is now at 100%. Full power. This kettle is plugged in and ready to go."
+> "All the way to the right... 100%."
 >
-> "Everything is still set to observe. Now... let's see what happens when energy flows through the system."
+> *[Pause]*
+>
+> "There we go. Energy Input is now at 100%. Full power. The electricity is flowing into the system."
+>
+> *[Pause]*
+>
+> "This simulates electricity actively flowing into the system... just like when you plug in your kettle."
 
 ### VISUALS:
-- Full simulation setup visible:
-  - Energy Input: 100%
-  - Heating Coil: Eye icon active
-  - Boiling Water: Eye icon active
-  - Play button: Ready
+- Slider at 100%
+- Energy Input looks bright and active
+- Ready feeling
+
+---
+
+## PART 3: STEP 2 - CHOOSE WHAT TO OBSERVE (30 seconds)
+
+**Scene:** Simulation interface, focus on Internal Components panel
+
+### VOICEOVER:
+> "Now let's make sure we're observing the right things."
+>
+> *[Pause]*
+>
+> "Look at the Internal Components panel. Do you see the eye icons?"
+
+### VISUALS:
+- Highlight Internal Components panel
+- Show eye icons next to Heating Coil and Boiling Water
+
+### VOICEOVER:
+> "We want to watch both of them: Heating Coil and Boiling Water."
+>
+> *[Pause]*
+>
+> "Check... yes. Heating Coil's eye icon is ON."
+>
+> *[Pause]*
+>
+> "And Boiling Water's eye icon is ON."
+>
+> *[Pause]*
+>
+> "Perfect. We're watching both components."
+
+### VISUALS:
+- Eye icons are visible and in "ON" state
+- Both components confirmed as active for observation
+- Ready-to-run feeling
+
+### VOICEOVER:
+> "This means when we run the simulation, we're gonna see what happens to BOTH of them."
+
+---
+
+## PART 4: STEP 3 - RUN THE SIMULATION (1:00)
+
+**Scene:** Simulation interface, all controls ready
+
+### VOICEOVER:
+> "Now for the moment of truth."
+>
+> *[Pause - building excitement]*
+>
+> "If the simulation is still running from before, we're gonna click the Stop button first. Stop the old simulation."
+
+### VISUALS:
+- Show Stop button highlighted
+- Ready to click
 
 ### ACTION:
-**Click Play button**
+**CLICK Stop button (if simulation is still running)**
 
 ### VISUALS:
-- Simulation runs
-- Graph begins filling immediately
-- Heating Coil line RISES (showing increasing temperature)
-- Shortly after, Boiling Water line RISES (showing activity)
-- Time passes: 0s → 10s → 20s → 30s
-- Both lines show clear activity and increase
-- Lines are no longer flat - they're MOVING
-- Visual excitement: lines climbing the graph
+- Simulation halts
+- Graph clears or resets
+- Ready for fresh run
 
 ### VOICEOVER:
-> "HERE! Look at this!"
+> "Now... press Play again. Let's see what happens when energy is flowing through the system."
+
+### ACTION:
+**CLICK Play button**
+
+### VISUALS:
+- Simulation starts immediately
+- Graph begins filling with data
+- Time counter starts: 0s → 5s → 10s → 15s → 20s → 25s → 30s
+- Two lines appear on graph:
+  - Heating Coil line (RISES, shows increasing temperature)
+  - Boiling Water line (RISES, shows increasing activity)
+- Both lines show CLEAR CHANGE compared to when energy was OFF
+- Visual energy/movement in the animation
+- Lines climbing upward on the graph
+- Color or glow effects showing activity
+
+### VOICEOVER:
+> "Watch the graph. Notice how the behavior of the components CHANGES when energy is flowing."
 >
-> *[Pause - let them see]*
+> *[Pause - let them watch]*
 >
-> "The Heating Coil is ACTIVE. The line is climbing. The coil is heating up."
+> "The Heating Coil line is rising. That means it's getting hotter."
 >
 > *[Pause]*
 >
-> "And look at Boiling Water... it's activating too. The water is boiling!"
+> "The Boiling Water line is also rising. That means the water is activating... it's responding to the heat."
 >
 > *[Pause]*
 >
-> "This is EXACTLY what we predicted. This is the system working."
+> "This is completely different from what we saw in Activity 3 when energy was OFF. Back then... nothing happened. The lines were flat."
+>
+> *[Pause]*
+>
+> "Now? Everything is changing. The system is ACTIVE. It's working."
 
 ### VISUALS:
-- Highlight the rising lines
-- Show the cause-and-effect:
-  - Energy Input 100% → Heating Coil active → Boiling Water active
-- Text overlay: "Energy Input: ON = System Active"
-- Celebrate the data visually (maybe particles flowing, colors changing)
-
-### VOICEOVER:
-> "Compare this to the first test. When energy was OFF... nothing happened. The lines were flat."
->
-> "When energy was ON... everything happens. The lines climb. The system comes alive."
->
-> "That's cause and effect. That's your model working exactly as it should."
-
-### VISUALS:
-- Show side-by-side comparison (optional):
-  - LEFT: Energy OFF graph (flat lines)
-  - RIGHT: Energy ON graph (rising lines)
+- Simulation continues
+- Both lines continue rising throughout the run
+- Visual confirmation of system activity
+- Professional data visualization
 
 ---
 
-## PART 4: WHAT THIS MEANS - THE BIG PICTURE (45 seconds)
+## PART 5: THE SCIENCE - ENERGY TRANSFER (45 seconds)
 
-**Scene:** Conceptual animation or real-world imagery
+**Scene:** Simulation data visible, or educational animation
 
 ### VOICEOVER:
-> "Now here's what's important to understand."
+> "Here's something really important to understand about what's happening."
 >
-> *[Serious, educational tone]*
+> *[More serious, educational tone]*
 >
-> "This isn't just a simulation. This is how the REAL WORLD works."
+> "When you boil water on a stove... the heat does NOT go directly into the water."
 
 ### VISUALS:
-- Show real-world imagery (kettle, stove, energy flowing)
-- Or animation of real energy system
+- Conceptual animation or real-world image
+- Show the step-by-step process
 
 ### VOICEOVER:
-> "Right now, somewhere, someone is plugging in a kettle. Electricity is flowing. A heating coil is heating up. Water is boiling."
->
-> "They might not be thinking about it like a model... but they're watching the same cause and effect you just saw on the graph."
-
-### VISUALS:
-- Show real kettle or stove
-- Visual connection between simulation and reality
-- Energy flowing
-- Heat being generated
-- Water boiling
-
-### VOICEOVER:
-> "Your model isn't just theory. It's a representation of reality. And now you understand how it works."
+> "It's transferred step by step."
 >
 > *[Pause]*
 >
-> "But here's the challenge: What if we could make it better?"
->
-> "What if we could boil water faster... or use LESS energy to do it?"
->
-> "That's where innovation comes in. That's where YOU come in."
+> "First, the metal coil heats up. That's what we see with the Heating Coil line rising."
 
 ### VISUALS:
-- Transition to thinking/challenge mode
-- Lightbulb moment
-- Innovation imagery
-
----
-
-## PART 5: THE CHALLENGE - KITCHEN HEAT HACK (45 seconds)
-
-**Scene:** Presentation of the STEM Challenge
+- Animation showing coil getting hot (red/orange color)
+- Energy flowing into the coil
 
 ### VOICEOVER:
-> "Here's your final challenge. It's called the Kitchen Heat Hack."
+> "Then the heat transfers to the pot. The pot gets hot."
 >
 > *[Pause]*
 >
-> "Your mission: Brainstorm ways to trap or transfer heat BETTER."
->
-> "Think about it. You now understand how energy flows through a system. You've seen the data. You know what works and what doesn't."
+> "And THEN... the heat goes into the water. That's why we see the Boiling Water line rise."
 
 ### VISUALS:
-- Text appears on screen:
-  - "KITCHEN HEAT HACK"
-  - "Challenge: Boil water faster without using more electricity"
-- Show problem scenario (kettle on stove)
+- Arrow or animation showing heat transfer:
+  - Energy → Coil (glows red)
+  - Coil → Pot (pot heats)
+  - Pot → Water (water starts to boil, bubbles, steam)
 
 ### VOICEOVER:
-> "Can you design something that heats water more efficiently?"
+> "That's how energy transfer through conduction works. Energy moves from one thing to another through direct contact."
 >
-> "Maybe it's a lid. Maybe it's a different material for the pot. Maybe it's a way to trap heat better."
+> *[Pause]*
 >
-> "Your job is to:"
->
-> "1. Brainstorm ideas"
->
-> "2. Sketch your design"
->
-> "3. List the materials you'd test"
->
-> "4. Explain how your idea uses what you learned from the simulation"
+> "And that's exactly what your model is showing us. The data is revealing the science."
 
 ### VISUALS:
-- Checklist appears with each point
-- Show sketches of different design ideas (lids, materials, shapes)
-- Show materials (pots, lids, insulation, etc.)
-- Professional, creative feeling
-
-### VOICEOVER:
-> "This is engineering. This is innovation. This is taking data... and turning it into something that solves a real problem."
-
-### VISUALS:
-- Inspirational imagery
-- Ideas coming to life
-- Innovation happening
-
-### VOICEOVER:
-> "And bonus: If you want to go even further, try actually building or modeling your system. Compare it to the original. See if your ideas actually work."
-
-### VISUALS:
-- Show someone building/testing their design
-- Excitement and discovery
+- Text appears: "Energy Transfer Through Conduction"
+- Definition: "Heat moves from one material to another through direct contact"
+- Show the three-step process:
+  1. Coil heats
+  2. Pot heats
+  3. Water boils
 
 ---
 
-## PART 6: CELEBRATION & REFLECTION (30 seconds)
+## PART 6: CELEBRATION & WHAT YOU'VE LEARNED (30 seconds)
 
-**Scene:** Complete journey recap
+**Scene:** Complete simulation data visible
 
 ### VOICEOVER:
-> "Look at what you've accomplished in four activities."
+> "Look at what you just witnessed."
 >
 > *[Proud, celebratory tone]*
 >
-> "Activity 1: You built the system."
->
-> "Activity 2: You connected it."
->
-> "Activity 3: You set up a test."
->
-> "Activity 4: You saw it work. You understood the data. You're now ready to innovate."
+> "You turned on the energy. You selected what to observe. You ran the simulation. And you SAW the change happen RIGHT THERE on the graph."
 
 ### VISUALS:
-- Quick montage of all four activities:
-  - Activity 1: Building components
-  - Activity 2: Creating connections (arrows)
-  - Activity 3: Simulation interface setup
-  - Activity 4: Running simulations and seeing data
+- Show final graph with both rising lines
+- Show the data visualization
+- Satisfied, complete feeling
 
 ### VOICEOVER:
-> "That's the full cycle of systems thinking. That's what engineers do every single day."
+> "This isn't just numbers on a screen. This is science. This is how systems work in the real world."
 >
 > *[Pause]*
 >
-> "Now it's your turn to think like an engineer. Take what you've learned. Apply it. Create. Innovate."
+> "You understand:"
+>
+> "- How energy flows through a system"
+>
+> "- What happens when energy is ON versus OFF"
+>
+> "- How heat transfers from one material to another"
 
 ### VISUALS:
-- Empowering imagery
-- Students working
-- Ideas coming to life
-- Real-world applications
+- Each point appears on screen as mentioned:
+  - Energy Flow
+  - Energy Dependence (ON vs OFF)
+  - Conduction Transfer
+
+### VOICEOVER:
+> "You're not just learning about energy... you're SEEING it work."
+
+### VISUALS:
+- Show the graph one more time
+- Professional, impressive data visualization
 
 ---
 
-## CLOSING: YOUR JOURNEY CONTINUES (15 seconds)
+## CLOSING: YOU'VE COMPLETED THE CYCLE (30 seconds)
 
-**Scene:** Final celebratory screen
+**Scene:** Celebratory closing
 
 ### VOICEOVER:
-> "You've taken a journey from a simple plug and a pot of water... to understanding a complete energy system."
+> "You've completed the full journey."
 >
-> "And that's just the beginning."
+> *[Pause]*
+>
+> "Activity 1: You built the components."
+>
+> "Activity 2: You connected them with arrows."
+>
+> "Activity 3: You set up a test scenario."
+>
+> "Activity 4: You saw it work. You watched the data. You understand the science."
 
 ### VISUALS:
-- Screen with energetic music and celebration
+- Quick montage of all four activities:
+  - Building components
+  - Creating connections
+  - Setting up simulation
+  - Running simulation and seeing results
+
+### VOICEOVER:
+> "That's systems thinking. That's how engineers work. That's how you solve problems in the real world."
+>
+> *[Pause]*
+>
+> "Amazing work. You've earned this!"
+
+### VISUALS:
+- Triumphant, celebratory feeling
 - Text appears:
+
 ```
-✅ From Plug to Steam - COMPLETE!
-🎓 You Understand Energy Systems
-⚡ You Can Think Like an Engineer
-🔬 Your Innovation Starts Now
+✅ Activity 4 Complete!
+🌡️ You Understand Energy Systems
+⚡ You Can Read and Interpret Data
+🔬 You Think Like a Scientist
 ```
 
 ### VOICEOVER:
-> "Take the Kitchen Heat Hack challenge. Sketch your ideas. Test them. Discover what works."
->
-> "The world needs problem-solvers like you."
->
-> "Thank you for this journey. Now go make something amazing."
-
-### VISUALS:
-- Fade out with energetic, triumphant music
-- Credits/End screen
+> "Thank you for this incredible journey from plug to steam."
 
 **[Fade out with celebratory music]**
 
@@ -360,94 +354,85 @@
 
 #### ANIMATIONS NEEDED:
 
-1. **Graph Animation - Energy OFF**
-   - Lines appear on graph
-   - Both lines stay flat at zero
-   - Time passes (clock/timer visible)
-   - Visual: "No Activity"
-
-2. **Graph Animation - Energy ON**
-   - Lines appear and RISE on graph
-   - Heating Coil line climbs first
-   - Boiling Water line follows
-   - Lines show clear increasing trend
-   - Visual energy/excitement in animation
-
-3. **Slider Movement (100%)**
+1. **Slider Animation (100%)**
    - Smooth movement from 0% to 100%
    - Color shift (gray → bright/glowing)
    - Percentage counter updates
    - Energy circle brightens
 
-4. **Side-by-Side Comparison**
-   - Energy OFF graph (flat)
-   - Energy ON graph (rising)
-   - Visual contrast clear and obvious
+2. **Graph Animation - Energy ON**
+   - Two lines appear on graph (Heating Coil and Boiling Water)
+   - BOTH lines RISE clearly over time
+   - Time counter visible (0s to 30s+)
+   - Clear upward trend in data
+   - Contrast obvious from previous "flat" Energy OFF simulation
 
-5. **Real-World Connection**
-   - Images of real kettle/stove
-   - Energy flowing visualization
-   - Connection between simulation and reality
+3. **Energy Transfer Concept Animation**
+   - Step 1: Coil heats (becomes red/orange)
+   - Step 2: Heat transfers to pot
+   - Step 3: Heat transfers to water (bubbles, steam)
+   - Arrows showing direction of heat flow
+   - Cause-and-effect visualization
 
-6. **Challenge Presentation**
-   - Kitchen Heat Hack title animation
-   - Checklist appearing item by item
-   - Example design sketches
-   - Material images
+4. **Stop and Play Button Interactions**
+   - Stop button highlighted
+   - Play button highlighted
+   - Clear feedback when simulation starts
 
-7. **Activity Montage**
+5. **Activity Montage**
    - Quick clips from all four activities
    - Smooth transitions
    - Building → Connecting → Testing → Results
 
 #### VISUAL EMPHASIS POINTS:
-- Dramatic contrast between flat (OFF) and rising (ON) lines
-- Clear cause-and-effect visualization
-- Energy flow animation (particles, glow, color)
+- Clear rising lines on graph (Energy ON)
+- Contrast with previous flat lines (Energy OFF)
+- Color/glow effects showing energy flow
+- Step-by-step heat transfer visualization
+- Professional data presentation
 - Real-world connection imagery
-- Inspirational tone throughout
-- Challenge feels achievable but exciting
 
 #### ON-SCREEN TEXT OVERLAYS:
-- "Energy OFF = No Activity" (with flat graph)
-- "Energy ON = System Active" (with rising graph)
-- "Cause → Effect"
-- "KITCHEN HEAT HACK"
-- Challenge checklist items
-- "From Plug to Steam - COMPLETE!"
-- Time indicators on graphs
+- "External Components" (panel label)
+- "Energy Input: 100%" (with slider position)
+- "Internal Components" (panel label)
+- "Heating Coil - Observe: YES"
+- "Boiling Water - Observe: YES"
+- "Energy Transfer Through Conduction"
+- Time stamps on graph (0s, 10s, 20s, 30s)
+- Component activity indicators
 
 ### MUSIC SUGGESTIONS:
 - **Intro (0:00-0:30):** Building anticipation
-- **Running Simulation OFF (0:30-1:30):** Calm, observation
-- **Running Simulation ON (1:30-2:30):** Building excitement, rising energy
-- **Big Picture (2:30-3:15):** Inspirational, wonder
-- **Challenge (3:15-4:00):** Energetic, motivational
-- **Closing (4:00-4:15):** Triumphant, celebratory
+- **Turning ON Energy (0:30-1:15):** Exploratory, building momentum
+- **Choosing What to Observe (1:15-1:45):** Focused, engaged
+- **Running Simulation (1:45-2:45):** Exciting, discovery, rising energy
+- **Energy Transfer Science (2:45-3:15):** Educational, wonder
+- **Closing (3:15-3:30):** Triumphant, celebratory
 
 ### CURSOR/MOUSE:
-- Smooth, deliberate movements
+- Smooth, deliberate slider movement to 100%
+- Highlight Stop button before clicking
 - Highlight Play button before clicking
-- Smooth slider drag to 100%
 - Clear positioning throughout
-- Cursor changes reflect mode (pointer, grab for slider)
+- Cursor changes reflect mode (grab for slider, pointer for buttons)
 
 ### PACING:
-- Moderate intro (celebration of journey)
-- Slower for simulation runs (let data tell the story)
-- Quick comparison between OFF and ON
-- Inspirational pace for real-world connection
-- Building excitement toward challenge
+- Moderate intro (reviewing previous work)
+- Clear, step-by-step for each action
+- Slower slider movement for dramatic effect
+- Extended time watching simulation run
+- Educational pace for energy transfer explanation
 - Celebratory closing
-- Rhythm: Run OFF simulation → Run ON simulation → Compare → Connect to reality → Challenge
+- Rhythm: Setup → Turn ON Energy → Choose What to Watch → Run Simulation → Explain Science → Celebrate
 
 ### TONE VARIATIONS:
-- Intro: Celebratory, ready
-- Simulation OFF: Calm, observant
-- Simulation ON: Excited about results
-- Real-world connection: Inspirational, wonder
-- Challenge: Empowering, innovative
-- Closing: Proud, forward-looking
+- Intro: Familiar, building excitement
+- Step 1: Clear instructions, confident
+- Step 2: Checking/confirming
+- Step 3: Rising excitement as simulation runs
+- Science explanation: Inspirational, wonder
+- Closing: Proud, celebratory
 
 ---
 
@@ -462,75 +447,81 @@
 ### AUDIO:
 - **Voice:** Clear, friendly, American English
 - **Music:** Background, non-intrusive, 20-30% volume
-- **Sound effects:** Subtle (graph updates, simulation sounds, confirmation tones)
+- **Sound effects:** Subtle (slider movements, button clicks, simulation sounds)
 - **Mix:** Voice at 100%, Music at 20-30%, SFX at 40-50%
 
 ### TIMING PRECISION:
 Each section should hit these approximate marks:
-- 0:00-0:30 = Recap & Setup
-- 0:30-1:30 = Running Simulation (Energy OFF)
-- 1:30-2:30 = Running Simulation (Energy ON)
-- 2:30-3:15 = Big Picture & Real-World Connection
-- 3:15-4:00 = Kitchen Heat Hack Challenge
-- 4:00-4:15 = Celebration & Closing
+- 0:00-0:30 = Recap & Setup Review
+- 0:30-1:15 = Step 1 - Turn ON Energy Input
+- 1:15-1:45 = Step 2 - Choose What to Observe
+- 1:45-2:45 = Step 3 - Run the Simulation
+- 2:45-3:15 = Energy Transfer Science (Conduction)
+- 3:15-3:30 = Celebration & Closing
 
 ---
 
 ## KEY EDUCATIONAL MOMENTS:
 
-1. ✅ **Data Validation**
-   - Energy OFF → No activity (flat graph)
-   - Energy ON → System active (rising graph)
+1. ✅ **Energy ON vs Energy OFF Contrast**
+   - Energy OFF = flat lines (no activity)
+   - Energy ON = rising lines (system active)
+   - Visual evidence of energy dependence
 
-2. ✅ **Cause and Effect**
-   - Energy input determines system output
-   - Direct visual evidence from graphs
+2. ✅ **Data Interpretation**
+   - Reading and understanding graphs
+   - Rising lines = increasing activity
+   - Cause-and-effect in data visualization
 
-3. ✅ **Model-to-Reality Connection**
-   - Simulation reflects real-world behavior
-   - Students see themselves as problem-solvers
+3. ✅ **Energy Transfer Through Conduction** (KEY FOR LEARNING)
+   - Heat doesn't go directly to water
+   - Step-by-step transfer process
+   - Coil → Pot → Water sequence
+   - Real-world application
 
-4. ✅ **Engineering Mindset** (KEY FOR GROWTH)
-   - "Can we do it better?"
-   - "How can we make it more efficient?"
-   - Innovation and improvement thinking
+4. ✅ **Systems Thinking Integration**
+   - Components working together
+   - Energy dependency
+   - One component's output affects another's input
 
-5. ✅ **Challenge-Based Learning**
-   - Apply concepts to real problem
-   - Design thinking begins
+5. ✅ **Scientific Observation**
+   - Using simulation to test predictions
+   - Data validates theoretical model
+   - Simulation reflects reality
 
 ---
 
 ## NARRATIVE CONTINUITY WITH ACTIVITY 3:
 
 **Activity 3 ended with:**
-> "In Activity 4, we're gonna RUN the simulations and see the data."
+> "Well... that's what we're gonna find out when we run the simulation."
 
 **Activity 4 opens with:**
-> "Welcome to Activity 4. This is the moment we've been building toward."
+> "Welcome to Activity 4. Remember where we left off? You had everything set up. Energy Input at 0%."
 
 **Activity 4 ends with:**
-> "Take the Kitchen Heat Hack challenge. Sketch your ideas. Test them. Discover what works."
+> "That's systems thinking. That's how engineers work. That's how you solve problems in the real world."
 
-**This leads to Hands-On Work:**
-> Students complete the STEM challenge, applying what they learned
+**This leads to:**
+> Independent exploration or next lesson objectives
 
 ---
 
 ## STUDENT LEARNING OBJECTIVES:
 
 By the end of Activity 4, students will:
-- ✅ Understand how energy input affects system output
-- ✅ Interpret simulation data and graphs
-- ✅ Connect simulation to real-world systems
-- ✅ Think critically about efficiency and improvement
-- ✅ Apply systems thinking to problem-solving
-- ✅ Begin design thinking and innovation
+- ✅ Understand how to manipulate variables in a simulation (slider control)
+- ✅ Interpret simulation data and understand what rising/falling lines mean
+- ✅ Compare Energy ON vs Energy OFF scenarios
+- ✅ Understand energy transfer through conduction
+- ✅ Recognize the step-by-step nature of heat transfer
+- ✅ Connect simulation data to real-world physical systems
+- ✅ Understand systems thinking and component interdependence
 
 ---
 
 **END OF COMPLETE SCRIPT**
 
-This script brings the full journey to a climax, celebrates student achievement, connects theory to reality, and launches them into hands-on innovation! 🎬🎨
+This script keeps focus on the three specific steps students need to follow, emphasizes the exciting moment when the simulation runs with energy ON, and introduces the real science behind conduction! 🎬🎨
 
-**The complete cycle: Build → Connect → Test → Understand → Innovate!**
+**Build → Connect → Test → See it Work!**
