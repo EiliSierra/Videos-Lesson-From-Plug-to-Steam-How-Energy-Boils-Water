@@ -44,7 +44,7 @@
 
 ## PART 2: ENTERING SIMULATION MODE (45 seconds)
 
-**Scene:** Transition from Model view to Simulation mode
+**Scene:** Simulation interface is now visible on screen
 
 ### VOICEOVER:
 > "Here's the first thing you need to know: there's a big difference between building a model and simulating it."
@@ -56,34 +56,22 @@
 > "Simulating? That's watching it work. That's turning it on and seeing what happens."
 
 ### VISUALS:
-- Side-by-side comparison (optional):
-  - Left: Model/Graph panel (static)
-  - Right: Simulation interface (dynamic)
-- Clean, clear transition between modes
+- Show the transition from static model to simulation interface
+- Simulation controls now visible on screen
+- Focus on key elements available
 
 ### VOICEOVER:
-> "To enter simulation mode in Cell Collective, you go to the menu at the top. You click: Workspace... then Model... then Simulation."
->
-> *[Pause]*
->
-> "It sounds like a lot of steps, but it's not. It's just navigating the interface."
-
-### VISUALS:
-- Show menu path: Workspace → Model → Simulation
-- Highlight each menu item as mentioned
-- Show the transition happening on screen
-- Simulation control panel appears
-
-### VOICEOVER:
-> "And when you do that... you get a whole new interface. This is where the magic happens."
+> "And now... you get a whole new interface. This is where the magic happens."
 >
 > "This is where you can control variables... observe components... and run simulations."
+>
+> "Look at what's available to you right now."
 
 ### VISUALS:
 - Full simulation interface visible
 - Highlight key elements:
   - Slider controls (for External Components)
-  - Component selection checkboxes
+  - Component selection (eye icons)
   - Play/Stop buttons
   - Graph area (empty, ready for data)
 
@@ -399,7 +387,7 @@
    - Text overlays
 
 5. **UI Feedback**
-   - Menu highlighting (Workspace → Model → Simulation)
+   - Simulation interface transition
    - Slider glow and movement
    - Eye icon state changes
    - Play button readiness
@@ -412,7 +400,6 @@
 - Readiness feeling before "Play"
 
 #### ON-SCREEN TEXT OVERLAYS:
-- "Workspace → Model → Simulation"
 - "Energy Input: 0%" (at the end)
 - "Energy Input: 100%" (at the start)
 - "Heating Coil - Observe: Yes"
