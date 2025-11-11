@@ -1,0 +1,54 @@
+# Word temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Video files (too large for git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+
+# Audio files
+*.wav
+*.mp3
+*.aac
+*.flac
+
+# Large image files
+*.psd
+*.ai
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
