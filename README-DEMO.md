@@ -1,0 +1,1 @@
+Este repo se gestiona con Claude Code Router + OpenRouter.
